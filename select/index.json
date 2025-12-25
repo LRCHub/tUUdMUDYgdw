@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Like a Movie",
+  "base_artist": "iKON",
+  "createdAt": "2025-12-25T05:00:08.659341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like a Movie",
+      "artist": "Midtown",
+      "has_synced": false,
+      "path": "select/01_Like_a_Movie_Midtown.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "like a movie",
+      "artist": "midtown",
+      "has_synced": true,
+      "path": "select/02_like_a_movie_midtown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Like a Movie",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/03_Just_Like_a_Movie_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like A Movie",
+      "artist": "Labrinth",
+      "has_synced": false,
+      "path": "select/04_Like_A_Movie_Labrinth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like A Movie",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/05_Like_A_Movie_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like a Movie",
+      "artist": "B1A4",
+      "has_synced": true,
+      "path": "select/06_Like_a_Movie_B1A4.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Down (Like A Movie Star)",
+      "artist": "Comus",
+      "has_synced": false,
+      "path": "select/07_Down_(Like_A_Movie_Star)_Comus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like a Movie",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/08_Like_a_Movie_iKON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like a Movie",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/09_Like_a_Movie_2PM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like A Movie",
+      "artist": "Loon feat. Claudette Ortiz",
+      "has_synced": false,
+      "path": "select/10_Like_A_Movie_Loon_feat._Claudette_Ortiz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Like a Movie (Featuring Claudette Ortiz)",
+      "artist": "Loon",
+      "has_synced": false,
+      "path": "select/11_Like_a_Movie_(Featuring_Claudette_Ortiz)_Loon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like A Movie",
+      "artist": "Cam",
+      "has_synced": true,
+      "path": "select/12_Like_A_Movie_Cam.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like a Movie",
+      "artist": "Vybz Kartel",
+      "has_synced": false,
+      "path": "select/13_Like_a_Movie_Vybz_Kartel.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Carpet (Like A Movie)",
+      "artist": "Wiz Khalifa",
+      "has_synced": false,
+      "path": "select/14_Red_Carpet_(Like_A_Movie)_Wiz_Khalifa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Like a Movie Star",
+      "artist": "The 6ths",
+      "has_synced": true,
+      "path": "select/15_Just_Like_a_Movie_Star_The_6ths.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just Like A Movie",
+      "artist": "Prateek Kuhad",
+      "has_synced": false,
+      "path": "select/16_Just_Like_A_Movie_Prateek_Kuhad.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like a Movie",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_Like_a_Movie_iKON.txt"
+    }
+  ]
+}
