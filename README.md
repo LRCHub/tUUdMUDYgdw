@@ -1,0 +1,59 @@
+# iKON – Like a Movie
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Feels like I've been drivin' in the dark
+Countin' every car, thinkin' of you
+I've been walkin' circles in my room
+Nowhere to move, waitin' for you
+And if you could just say the word
+I won't be hurt, I won't be hurt
+And all I know is
+You're dressed like the movies
+An eighties somethin' vibe
+And no one knows what you're hidin', baby
+But I just think I might
+With every conversation
+You're pullin' at my heart
+Just like a movie
+The end is where we start
+Start
+Start
+Start
+Wish that I was livin' in your dream
+Swimmin' in the sea of nothin' but you
+If only you were thinkin' it too
+Comе close to me and I'll make it truе
+And if you could just say the word
+We'll take the turn, we'll take the turn
+But all I know is
+You're dressed like the movies
+An eighties somethin' vibe
+And no one knows what you're hidin', baby
+But I just think I might
+With every conversation
+You're pullin' at my heart
+Just like a movie
+The end is where we start
+Start (Where we start)
+Start (Where we start)
+Start (Where we start)
+The end is where we start
+If you know what you want
+Can you let me in your heart?
+In your heart
+The end is where we
+You're dressed like the movies
+An eighties somethin' vibe
+And no one knows what you're hidin', baby
+But I just think I might
+With every conversation
+You're pullin' at my heart
+Just like a movie
+The end is where we start
+Start
+Start
+Start
+The end is where we start
+```
